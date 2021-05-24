@@ -1,4 +1,7 @@
-# Ignore targe folder
+# Maven
+*.mvn
+
+# Ignore target folder
 target
 
 # Iml file
